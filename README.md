@@ -1,2 +1,2 @@
 # simplereverseproxy
-This is a ultra simple reverse proxy written in GoLang
+This is an ultra simple reverse proxy written in GoLang
